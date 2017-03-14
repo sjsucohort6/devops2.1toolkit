@@ -1,5 +1,6 @@
 # DevOps 2.1 Toolkit Notes
---
+
+Notes from DevOps 2.1 Toolkit book by Victor Farcic
 
 # Chapter 1 - CI using Docker
 
